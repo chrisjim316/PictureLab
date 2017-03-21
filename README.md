@@ -2,8 +2,8 @@
 Written in Java 
 
 College Board APCS Curriculum Picture Lab
-Last Modified: 20th March, 2017
-Status: Almost all complete, including every optional activity. 
+Last Modified: 21th March, 2017
+Status: All complete, including every optional activity. 
 Intro: This Lab is all about modifying digital pictures.
 
 Setup
