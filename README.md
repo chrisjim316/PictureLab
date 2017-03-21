@@ -4,7 +4,7 @@ Written in Java
 College Board APCS Curriculum Picture Lab
 Last Modified: 21th March, 2017
 Status: All complete, including every optional activity. 
-Intro: This Lab is all about modifying digital pictures.
+Intro: This Lab is all about modifying digital pictures. This repository includes all the pictures u will need to test the methods on.
 
 Setup
 -You will need a Java Development Kit, also known as a JDK (see
